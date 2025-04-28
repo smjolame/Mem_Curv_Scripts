@@ -1,0 +1,11 @@
+number behind text: gridsice
+number after that: dimension (1 = const lambda, 2 = changing lambda)
+next number: lambda value
+All these belong to a h_zero of [-0.3, 0.6] in lin steps and lambda [1,50] in log steps
+
+
+special numbers:
+last number is a different interval:
+1: h_zero[-0.1, 0.4] -> for the region between bifork
+2: h_zero[-0.2,0.2] -> for energy minimum
+3: h_zero[-0.1,0.1]

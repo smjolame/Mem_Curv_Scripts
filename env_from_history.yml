@@ -1,0 +1,16 @@
+name: Membrane_Curv
+channels:
+  - conda-forge
+  - pkgw-forge
+dependencies:
+  - numpy
+  - numpy-stl
+  - python=3.12
+  - pyvista
+  - scikit-learn
+  - scipy
+  - sympy
+  - pandas
+  - trimesh
+  - tqdm
+  - seaborn

@@ -1,0 +1,11 @@
+python Boxplot_Neck_Sphere_Energy_Compare.py
+python Boxplot_Neck_Sphere_Energy.py
+python Boxplot_Neck_Sphere_H_Compare.py
+python Boxplot_Neck_Sphere_H.py
+python Boxplot_Neck_Sphere_K_Compare.py
+python Boxplot_Neck_Sphere_K.py
+python Boxplot_Neck_Sphere_Thickness_Compare.py
+python Boxplot_Neck_Sphere_Thickness.py
+python Boxplot_Nice_Necks.py
+python Boxplot_noNeck_Neck_Curv.py
+python Boxplot_noNeck_Neck_Thickness.py
