@@ -66,6 +66,6 @@ This includes a **noisy torus** with dimensions similar to VLP necks.
 ### `VLP_Calculations/`
 Application of curvature estimation to VLP data.  
 Curvature is used to:
-- Automatically label neck and spherical regions,
-- Perform statistical analysis across samples with varying protein configurations.
+- Automatically label neck and spherical regions
+- Perform statistical analysis across samples with varying protein configurations
 
