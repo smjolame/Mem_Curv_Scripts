@@ -1,5 +1,6 @@
 This work primarily investigates the budding process during SARS-CoV-
-2 infection. To do so, the membrane from cryo-TEM images of infected cells is
+2 infection. To do so, the membrane from cryo-ET images of cells 
+expressing SARS-CoV-2 virus-like particles (VLPs) is
 segmented. The samples consist of different compositions regarding the envelope
 structural protein (E). This segmentation provides a discrete representation of the
 actual membrane and serves as the starting point of this study. Based on the
